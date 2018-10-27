@@ -5,6 +5,7 @@
 特色 （推广的一些亮点）
 
 ## 安装下载
+- 下载地址 https://github.com/fast-cache2/fast-cache2/releases
 
 ## 快速使用
 简单接入的文档
