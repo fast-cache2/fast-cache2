@@ -1,5 +1,5 @@
 # fast-cache2
-短小精悍的前端缓存工具，防止内存“侧漏”
+短小精悍的前端缓存工具，防止内存“侧漏”https://fast-cache2.github.io/
 
 ## 简介
 特色 （推广的一些亮点）
@@ -17,6 +17,7 @@
 
 ## 交流 & 提问
 https://github.com/fast-cache2/fast-cache2/issues
+QQ群 微信群
 ## 关于作者
 - 个人主页
 - 收款二维码
