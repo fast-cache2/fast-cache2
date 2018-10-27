@@ -6,6 +6,8 @@
 
 ## 安装下载
 - 下载地址 https://github.com/fast-cache2/fast-cache2/releases
+- 'npm i fast-cache2'
+- CDN http://unpkg.com/fast-cache2/release/bundle.js
 
 ## 快速使用
 简单接入的文档

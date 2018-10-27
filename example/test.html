@@ -10,7 +10,10 @@
 		var FC = window.FastCache;
 		var cache = new FC();
 		cache.set('a', 100);
-		alert(cache.get('a'));
+		console.log(cache.get('a'));
+		cache.clear()
+		console.log(cache.get('a'));
+
 	</script>
 </body>
 </html>
